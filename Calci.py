@@ -15,6 +15,7 @@ def sc(event):
 	key=event.widget
 	text=key['text']
 	no=e.get()
+	njbjm,mb
 	result=''
 	if text=='deg':
 		result=str(m.degrees(float(no)))
